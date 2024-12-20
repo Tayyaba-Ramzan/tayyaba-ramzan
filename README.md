@@ -37,5 +37,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayyaba-ramzan&show_icons=true&locale=en&layout=compact" alt="tayyaba-ramzan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyaba-ramzan&" alt="tayyaba-ramzan" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayyaba-ramzan&show_icons=true&locale=en" alt="tayyaba-ramzan" /></p>
