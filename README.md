@@ -61,12 +61,6 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Aleeze123/Aleeze123/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ## 🏆 GitHub Achievements
@@ -74,7 +68,7 @@
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=tayyaba-ramzan&theme=radical&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 🚀 GitHub Stats:
-![Aleeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyaba-ramzan&show_icons=true&theme=dark)
+![Tayyaba's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyaba-ramzan&show_icons=true&theme=dark)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=tayyaba-ramzan&bg_color=000000&color=ffffff&line=1100ff&point=ffffff&area=true&hide_border=true)
 
 ### 🔝 Top Contributed Repo
